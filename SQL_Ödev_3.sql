@@ -1,5 +1,3 @@
-1. SELECT DISTINCT replacement_cost FROM film;
+1. SELECT * FROM country WHERE country LIKE ('A%a');
 
-2. SELECT COUNT (DISTINCT replacement_cost) FROM film;
-
-3. 
+2. 
